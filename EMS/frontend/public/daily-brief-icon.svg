@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F6A14B"/>
+      <stop offset="100%" stop-color="#E8743B"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(40, 30)">
+    <!-- baseline -->
+    <line x1="0" y1="84" x2="120" y2="84" stroke="#15263A" stroke-width="5" stroke-linecap="round"/>
+    <!-- sun rising over the line -->
+    <path d="M 28 84 A 32 32 0 0 1 92 84 Z" fill="url(#sun)"/>
+    <!-- brief / text lines beneath, tapering -->
+    <line x1="14" y1="100" x2="106" y2="100" stroke="#15263A" stroke-width="4.5" stroke-linecap="round" opacity="0.9"/>
+    <line x1="26" y1="114" x2="94" y2="114" stroke="#15263A" stroke-width="4.5" stroke-linecap="round" opacity="0.55"/>
+    <line x1="40" y1="128" x2="80" y2="128" stroke="#15263A" stroke-width="4.5" stroke-linecap="round" opacity="0.3"/>
+  </g>
+</svg>

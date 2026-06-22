@@ -1,0 +1,1797 @@
+Employee Name,Department,Position,Leave Type,Start Date,End Date,Days Taken,Total Leave Entitlement,Leave Taken So Far,Remaining Leaves,month
+Michael Moore,IT,Software Engineer,Maternity Leave,21-12-2023,25-12-2023,5,21,5,16,Dec
+Michael Collier,HR,HR Manager,Sick Leave,01-12-2024,06-12-2024,5,28,5,23,Dec
+Ashley Rogers,Finance,Accountant,Maternity Leave,08-06-2024,11-06-2024,5,23,17,6,Jun
+Kelly Alexander,Finance,Accountant,Earned Leave,03-11-2024,08-11-2024,6,28,19,9,Nov
+Corey Chung,Finance,Financial Analyst,Maternity Leave,01-03-2024,06-03-2024,6,21,6,15,Mar
+Daniel Schmidt,Finance,Financial Analyst,Sick Leave,28-08-2024,05-09-2024,9,30,15,15,Aug
+Nicole Day,Operations,Operations Manager,Earned Leave,01-08-2024,06-08-2024,6,26,7,19,Aug
+Justin Waller,HR,HR Manager,Paternity Leave,24-09-2024,30-09-2024,6,24,8,16,Sep
+Gavin Johnson,Finance,Accountant,Maternity Leave,25-01-2024,31-01-2024,8,27,8,19,Jan
+Kevin Wall,Marketing,SEO Analyst,Sick Leave,22-04-2024,26-04-2024,6,30,24,6,Apr
+Amy Gaines,HR,HR Manager,Sick Leave,22-03-2024,27-03-2024,6,22,6,16,Mar
+Sally Chapman,IT,System Administrator,Earned Leave,25-02-2024,02-03-2024,6,24,7,17,Feb
+Robert Jones,IT,Software Engineer,Paternity Leave,02-11-2024,08-11-2024,8,28,8,20,Nov
+Daniel Gomez,HR,Recruiter,Earned Leave,18-07-2024,20-07-2024,3,24,18,6,Jul
+Randy Reyes,IT,System Administrator,Paternity Leave,31-12-2023,07-01-2024,8,22,12,10,Dec
+Phillip Alvarez,Finance,Financial Analyst,Casual Leave,17-04-2024,20-04-2024,4,30,9,21,Apr
+Kathryn Hobbs,Operations,Operations Manager,Earned Leave,25-03-2024,02-04-2024,9,29,19,10,Mar
+Joseph James MD,Marketing,SEO Analyst,Casual Leave,20-06-2024,27-06-2024,8,24,13,11,Jun
+Dalton Barber,Operations,Logistics Coordinator,Maternity Leave,24-09-2024,01-10-2024,8,22,13,9,Sep
+Holly Parsons,IT,Software Engineer,Earned Leave,15-09-2024,22-09-2024,8,25,16,9,Sep
+Elizabeth Cook,Finance,Accountant,Sick Leave,18-04-2024,25-04-2024,9,29,15,14,Apr
+Joseph Lawrence,IT,System Administrator,Paternity Leave,22-09-2024,28-09-2024,7,27,7,20,Sep
+Joanna Frye,Marketing,Marketing Specialist,Casual Leave,18-10-2024,26-10-2024,9,28,9,19,Oct
+Elizabeth Sullivan,HR,HR Manager,Casual Leave,04-12-2024,12-12-2024,9,27,9,18,Dec
+Vincent Gonzalez,HR,Recruiter,Earned Leave,31-08-2024,09-09-2024,10,29,12,17,Aug
+Danielle George,Operations,Operations Manager,Paternity Leave,29-03-2024,03-04-2024,7,23,7,16,Mar
+Kelly Hendrix,HR,HR Manager,Earned Leave,06-12-2024,11-12-2024,6,22,11,11,Dec
+Tammy Watson,IT,System Administrator,Maternity Leave,07-06-2024,09-06-2024,3,25,13,12,Jun
+Peter Ryan,IT,System Administrator,Casual Leave,02-07-2024,10-07-2024,9,30,9,21,Jul
+Sharon Aguilar,Finance,Financial Analyst,Maternity Leave,21-05-2024,28-05-2024,8,20,8,12,May
+Deanna Huang,Operations,Logistics Coordinator,Casual Leave,12-09-2024,17-09-2024,7,21,7,14,Sep
+Chase Golden,HR,HR Manager,Casual Leave,28-03-2024,05-04-2024,9,26,9,17,Mar
+Haley Holmes,Finance,Accountant,Casual Leave,23-04-2024,28-04-2024,6,21,11,10,Apr
+Jennifer Campbell,Finance,Accountant,Casual Leave,01-10-2024,01-10-2024,1,22,1,21,Oct
+Jennifer Santiago,Operations,Operations Manager,Sick Leave,03-12-2024,04-12-2024,1,25,5,20,Dec
+Luke Jackson,HR,Recruiter,Sick Leave,21-03-2024,27-03-2024,8,25,8,17,Mar
+Alyssa Adams,Operations,Logistics Coordinator,Sick Leave,18-03-2024,18-03-2024,1,28,7,21,Mar
+Brenda Wilson,HR,HR Manager,Earned Leave,17-09-2024,23-09-2024,7,28,17,11,Sep
+Kristina Lowe,Finance,Accountant,Sick Leave,16-12-2024,25-12-2024,11,23,11,12,Dec
+Sean Shah,Operations,Logistics Coordinator,Sick Leave,12-06-2024,19-06-2024,8,20,8,12,Jun
+Joseph Manning,Marketing,SEO Analyst,Sick Leave,06-09-2024,11-09-2024,6,28,9,19,Sep
+Joseph Grant,IT,Software Engineer,Paternity Leave,10-07-2024,13-07-2024,4,24,9,15,Jul
+Antonio Welch,Marketing,SEO Analyst,Casual Leave,05-01-2024,12-01-2024,8,24,10,14,Jan
+Yolanda Holt,Operations,Logistics Coordinator,Casual Leave,30-03-2024,04-04-2024,5,30,19,11,Mar
+Anna Acosta,Operations,Operations Manager,Sick Leave,01-08-2024,01-08-2024,1,29,6,23,Aug
+Robert Hardy,Finance,Financial Analyst,Casual Leave,24-12-2023,31-12-2023,9,28,17,11,Dec
+Crystal Wilson,Marketing,Marketing Specialist,Casual Leave,27-01-2024,03-02-2024,8,20,8,12,Jan
+Dawn Carey,Operations,Operations Manager,Sick Leave,16-01-2024,17-01-2024,2,22,12,10,Jan
+Caleb Terrell,IT,System Administrator,Earned Leave,22-01-2024,29-01-2024,8,20,8,12,Jan
+Cynthia Strickland,HR,Recruiter,Sick Leave,24-09-2024,28-09-2024,5,28,11,17,Sep
+Terri Salas,Marketing,SEO Analyst,Casual Leave,22-06-2024,24-06-2024,2,29,2,27,Jun
+John Reese,IT,Software Engineer,Sick Leave,07-08-2024,11-08-2024,6,21,6,15,Aug
+Scott Johnson,Operations,Logistics Coordinator,Maternity Leave,25-02-2024,02-03-2024,6,22,7,15,Feb
+Kevin Orr,Operations,Operations Manager,Casual Leave,01-02-2024,10-02-2024,9,30,9,21,Feb
+Julia Rivers,Marketing,Marketing Specialist,Earned Leave,20-08-2024,25-08-2024,6,20,9,11,Aug
+Robert Cervantes,Finance,Financial Analyst,Paternity Leave,16-08-2024,19-08-2024,3,24,3,21,Aug
+David Strong DVM,Finance,Financial Analyst,Earned Leave,21-01-2024,28-01-2024,8,26,10,16,Jan
+Denise Collins,IT,Software Engineer,Maternity Leave,16-11-2024,25-11-2024,10,30,10,20,Nov
+Terri Olsen,Finance,Accountant,Paternity Leave,26-02-2024,02-03-2024,6,23,16,7,Feb
+Allison Evans,IT,Software Engineer,Casual Leave,07-06-2024,10-06-2024,4,25,10,15,Jun
+Adam Solomon,HR,HR Manager,Sick Leave,18-04-2024,24-04-2024,7,27,7,20,Apr
+Billy Duran,Finance,Accountant,Paternity Leave,14-10-2024,20-10-2024,7,26,7,19,Oct
+Rita Hull,Marketing,Marketing Specialist,Maternity Leave,28-11-2024,29-11-2024,3,23,14,9,Nov
+Martin Anderson,IT,System Administrator,Paternity Leave,09-05-2024,14-05-2024,6,28,11,17,May
+Jessica Beard,Operations,Logistics Coordinator,Paternity Leave,20-01-2024,25-01-2024,6,25,15,10,Jan
+Kenneth Smith,Operations,Operations Manager,Casual Leave,04-02-2024,08-02-2024,5,23,7,16,Feb
+Todd Preston,Finance,Financial Analyst,Maternity Leave,07-06-2024,15-06-2024,9,27,17,10,Jun
+Lauren Santos,Finance,Financial Analyst,Maternity Leave,25-12-2023,31-12-2023,8,30,12,18,Dec
+Rachel Jones,Operations,Logistics Coordinator,Earned Leave,27-08-2024,28-08-2024,2,26,15,11,Aug
+Tanya Cameron,HR,Recruiter,Sick Leave,10-05-2024,14-05-2024,4,27,13,14,May
+Arthur Smith,Marketing,Marketing Specialist,Maternity Leave,02-04-2024,09-04-2024,9,22,10,12,Apr
+Allison Richard,HR,HR Manager,Sick Leave,28-08-2024,28-08-2024,1,24,7,17,Aug
+Jessica Chaney,Finance,Financial Analyst,Earned Leave,10-02-2024,19-02-2024,10,26,10,16,Feb
+Lisa Richardson,Operations,Logistics Coordinator,Paternity Leave,23-11-2024,01-12-2024,10,30,13,17,Nov
+Alexander Hahn,IT,System Administrator,Maternity Leave,23-07-2024,30-07-2024,9,22,14,8,Jul
+Kristen Kerr,Marketing,Marketing Specialist,Maternity Leave,17-04-2024,26-04-2024,11,24,11,13,Apr
+Kathryn Grant,IT,System Administrator,Paternity Leave,21-05-2024,27-05-2024,8,22,15,7,May
+Erin Quinn,IT,Software Engineer,Paternity Leave,28-10-2024,28-10-2024,1,25,1,24,Oct
+Erik Pierce,Finance,Financial Analyst,Earned Leave,29-02-2024,04-03-2024,5,21,15,6,Feb
+Jeffery Forbes,Marketing,Marketing Specialist,Maternity Leave,12-11-2024,19-11-2024,8,29,19,10,Nov
+Steven Patterson,Operations,Operations Manager,Casual Leave,17-08-2024,21-08-2024,4,24,13,11,Aug
+Heather Berry,Operations,Logistics Coordinator,Sick Leave,14-02-2024,16-02-2024,4,28,11,17,Feb
+Anthony Johnson,IT,System Administrator,Casual Leave,29-06-2024,04-07-2024,6,22,8,14,Jun
+Edward Morrison,HR,HR Manager,Sick Leave,17-05-2024,19-05-2024,3,26,17,9,May
+Joseph Wheeler,Marketing,SEO Analyst,Maternity Leave,16-10-2024,18-10-2024,3,28,25,3,Oct
+Brandon Price,Finance,Accountant,Sick Leave,17-10-2024,26-10-2024,10,20,10,10,Oct
+Jeffrey Boyd,IT,System Administrator,Casual Leave,27-06-2024,06-07-2024,11,27,11,16,Jun
+Justin Smith,Operations,Operations Manager,Paternity Leave,06-10-2024,12-10-2024,8,26,17,9,Oct
+Lee Abbott,Marketing,Marketing Specialist,Maternity Leave,30-08-2024,08-09-2024,9,23,11,12,Aug
+Carrie Anderson,Operations,Operations Manager,Earned Leave,25-12-2023,03-01-2024,10,23,10,13,Dec
+Dr. Jacqueline Cooper,IT,Software Engineer,Sick Leave,17-05-2024,20-05-2024,4,23,13,10,May
+Zachary Castillo,Finance,Financial Analyst,Sick Leave,06-07-2024,14-07-2024,10,24,10,14,Jul
+Sonia Myers,Marketing,SEO Analyst,Maternity Leave,27-11-2024,06-12-2024,11,27,11,16,Nov
+William Mercado,Marketing,Marketing Specialist,Sick Leave,12-12-2024,12-12-2024,1,24,2,22,Dec
+Charles Harris,HR,HR Manager,Maternity Leave,01-05-2024,02-05-2024,3,30,8,22,May
+Jessica Smith,IT,Software Engineer,Casual Leave,27-05-2024,27-05-2024,1,26,10,16,May
+Andrew Jones,IT,Software Engineer,Earned Leave,16-11-2024,19-11-2024,4,30,4,26,Nov
+Sandra Lara,Finance,Financial Analyst,Casual Leave,12-10-2024,14-10-2024,3,22,3,19,Oct
+Samantha Fowler,IT,Software Engineer,Maternity Leave,12-10-2024,14-10-2024,3,25,20,5,Oct
+Michael Edwards,HR,HR Manager,Earned Leave,14-05-2024,17-05-2024,4,25,6,19,May
+Michael Dorsey,Operations,Operations Manager,Earned Leave,26-06-2024,30-06-2024,5,20,5,15,Jun
+Kimberly Sanford,Operations,Logistics Coordinator,Sick Leave,25-12-2023,26-12-2023,3,21,3,18,Dec
+Dustin Hensley,Marketing,SEO Analyst,Paternity Leave,27-11-2024,02-12-2024,6,22,13,9,Nov
+Andrew Smith,Operations,Operations Manager,Maternity Leave,10-01-2024,10-01-2024,1,29,3,26,Jan
+Jeffrey Sherman,Finance,Financial Analyst,Earned Leave,15-01-2024,18-01-2024,3,22,18,4,Jan
+Joel Chandler,Operations,Operations Manager,Paternity Leave,13-07-2024,15-07-2024,3,30,13,17,Jul
+Carlos Moore,HR,HR Manager,Casual Leave,11-12-2024,15-12-2024,5,21,9,12,Dec
+Ivan Robertson,IT,System Administrator,Earned Leave,06-10-2024,06-10-2024,2,26,11,15,Oct
+Donna Bowers,Finance,Financial Analyst,Sick Leave,22-06-2024,28-06-2024,7,20,7,13,Jun
+Whitney Smith,IT,Software Engineer,Earned Leave,04-01-2024,10-01-2024,7,28,12,16,Jan
+Nathan Palmer,HR,Recruiter,Paternity Leave,10-09-2024,12-09-2024,3,24,15,9,Sep
+Danielle Watkins,Marketing,Marketing Specialist,Earned Leave,27-11-2024,04-12-2024,8,22,8,14,Nov
+Christopher Frank,HR,HR Manager,Sick Leave,12-02-2024,15-02-2024,3,28,15,13,Feb
+William Ward,Operations,Operations Manager,Casual Leave,29-09-2024,05-10-2024,8,30,22,8,Sep
+Ryan Davis,Finance,Financial Analyst,Earned Leave,18-04-2024,25-04-2024,9,26,12,14,Apr
+Diana Massey,Marketing,Marketing Specialist,Sick Leave,28-12-2023,01-01-2024,4,23,10,13,Dec
+Terry Campbell,Finance,Accountant,Casual Leave,10-06-2024,14-06-2024,6,22,9,13,Jun
+Holly Ward,Operations,Logistics Coordinator,Maternity Leave,06-02-2024,11-02-2024,6,23,17,6,Feb
+Steven Barnes,Operations,Operations Manager,Casual Leave,08-06-2024,17-06-2024,9,30,9,21,Jun
+Sandra Chen,Finance,Accountant,Maternity Leave,19-09-2024,25-09-2024,7,26,17,9,Sep
+Rhonda Mills,HR,HR Manager,Casual Leave,16-05-2024,19-05-2024,5,24,13,11,May
+David Richard,HR,HR Manager,Paternity Leave,29-02-2024,08-03-2024,8,22,8,14,Feb
+Linda Reynolds,Finance,Accountant,Maternity Leave,23-03-2024,26-03-2024,4,20,7,13,Mar
+Alan Hamilton,Operations,Logistics Coordinator,Casual Leave,12-11-2024,19-11-2024,8,24,9,15,Nov
+Tammy Morris,Marketing,Marketing Specialist,Maternity Leave,09-10-2024,12-10-2024,4,24,18,6,Oct
+Suzanne Green,Marketing,Marketing Specialist,Earned Leave,06-10-2024,08-10-2024,3,28,12,16,Oct
+Michael Anderson,Marketing,SEO Analyst,Sick Leave,02-05-2024,06-05-2024,6,25,18,7,May
+Jeffrey Walsh,Operations,Logistics Coordinator,Maternity Leave,21-07-2024,21-07-2024,1,26,25,1,Jul
+Lisa Smith,Finance,Accountant,Paternity Leave,01-01-2024,03-01-2024,3,26,18,8,Jan
+Kenneth Williamson,Finance,Financial Analyst,Casual Leave,16-11-2024,18-11-2024,3,23,13,10,Nov
+Kimberly Perez,Marketing,Marketing Specialist,Maternity Leave,16-04-2024,19-04-2024,4,22,17,5,Apr
+James Byrd,IT,System Administrator,Paternity Leave,27-10-2024,02-11-2024,7,27,11,16,Oct
+Tracy Serrano,HR,Recruiter,Sick Leave,06-09-2024,09-09-2024,4,26,4,22,Sep
+Marcus Jackson,IT,Software Engineer,Maternity Leave,04-05-2024,07-05-2024,4,25,4,21,May
+Jasmine Burns,Operations,Logistics Coordinator,Casual Leave,28-08-2024,01-09-2024,4,23,15,8,Aug
+Daniel Reed,Marketing,SEO Analyst,Sick Leave,24-10-2024,24-10-2024,1,21,1,20,Oct
+Melissa Coleman,HR,Recruiter,Casual Leave,04-07-2024,11-07-2024,8,28,16,12,Jul
+Amanda Mcdonald,Marketing,Marketing Specialist,Maternity Leave,01-05-2024,08-05-2024,9,25,9,16,May
+Jessica Glover,Marketing,SEO Analyst,Casual Leave,19-07-2024,21-07-2024,3,30,17,13,Jul
+Andrew Cole,Finance,Financial Analyst,Sick Leave,07-09-2024,09-09-2024,2,26,2,24,Sep
+Patricia Banks,Finance,Financial Analyst,Maternity Leave,08-12-2024,10-12-2024,2,23,7,16,Dec
+Joshua Phillips,Finance,Financial Analyst,Casual Leave,13-08-2024,17-08-2024,5,23,15,8,Aug
+Charles Sanchez,IT,Software Engineer,Maternity Leave,05-10-2024,08-10-2024,4,25,4,21,Oct
+Melissa Bentley,IT,System Administrator,Earned Leave,09-08-2024,18-08-2024,10,24,10,14,Aug
+Bethany Thompson,Finance,Financial Analyst,Casual Leave,04-08-2024,13-08-2024,10,20,10,10,Aug
+Beth Taylor,Marketing,Marketing Specialist,Casual Leave,15-01-2024,18-01-2024,4,22,9,13,Jan
+Julia Contreras,HR,Recruiter,Sick Leave,07-07-2024,14-07-2024,9,21,12,9,Jul
+Elizabeth Espinoza,Finance,Accountant,Casual Leave,16-07-2024,18-07-2024,3,30,25,5,Jul
+Renee Coleman,IT,Software Engineer,Earned Leave,17-03-2024,17-03-2024,1,27,18,9,Mar
+Joel Walker,HR,HR Manager,Casual Leave,24-08-2024,26-08-2024,3,20,7,13,Aug
+Daniel Sanchez,Operations,Logistics Coordinator,Sick Leave,29-04-2024,30-04-2024,1,23,2,21,Apr
+David Gonzalez,Operations,Operations Manager,Sick Leave,23-04-2024,01-05-2024,9,29,9,20,Apr
+James Sanchez,HR,HR Manager,Sick Leave,29-09-2024,05-10-2024,7,27,7,20,Sep
+Elizabeth Hebert,HR,Recruiter,Paternity Leave,19-01-2024,21-01-2024,3,29,16,13,Jan
+Whitney Davis,Marketing,Marketing Specialist,Earned Leave,04-08-2024,05-08-2024,1,30,2,28,Aug
+Kelly Adkins,Finance,Financial Analyst,Paternity Leave,16-07-2024,18-07-2024,3,25,3,22,Jul
+Jessica Thomas,Finance,Accountant,Paternity Leave,24-02-2024,25-02-2024,3,25,22,3,Feb
+Olivia Lopez,Operations,Operations Manager,Earned Leave,21-10-2024,29-10-2024,10,30,10,20,Oct
+Robin Stephens,Marketing,Marketing Specialist,Maternity Leave,20-07-2024,26-07-2024,7,20,12,8,Jul
+Meghan Mills,Operations,Logistics Coordinator,Casual Leave,22-03-2024,22-03-2024,2,29,10,19,Mar
+Joshua Nelson,Operations,Logistics Coordinator,Maternity Leave,14-07-2024,16-07-2024,3,30,20,10,Jul
+Richard Mcfarland,IT,Software Engineer,Casual Leave,30-11-2024,07-12-2024,9,23,9,14,Nov
+Paula Marsh,Finance,Financial Analyst,Sick Leave,04-04-2024,12-04-2024,10,22,11,11,Apr
+Kimberly Alexander,Operations,Operations Manager,Earned Leave,21-04-2024,23-04-2024,3,22,15,7,Apr
+Michelle Lowe,Operations,Operations Manager,Earned Leave,20-06-2024,27-06-2024,8,26,8,18,Jun
+Gerald Hoffman,HR,Recruiter,Casual Leave,01-04-2024,10-04-2024,11,26,11,15,Apr
+Luis Watson,Marketing,SEO Analyst,Casual Leave,23-10-2024,24-10-2024,2,29,4,25,Oct
+Marissa Richards,IT,Software Engineer,Sick Leave,19-11-2024,21-11-2024,3,24,19,5,Nov
+Tracey Chase,IT,System Administrator,Paternity Leave,13-07-2024,21-07-2024,9,20,9,11,Jul
+Paul Davis,Operations,Operations Manager,Earned Leave,30-01-2024,01-02-2024,3,21,18,3,Jan
+Angel Goodman,HR,Recruiter,Sick Leave,29-09-2024,08-10-2024,11,23,11,12,Sep
+Carolyn Adams,Marketing,SEO Analyst,Casual Leave,05-02-2024,09-02-2024,5,22,5,17,Feb
+Leroy Berry,Operations,Logistics Coordinator,Sick Leave,02-02-2024,11-02-2024,10,30,10,20,Feb
+Douglas Barber,HR,HR Manager,Earned Leave,09-04-2024,11-04-2024,3,21,10,11,Apr
+Charles Buchanan,IT,System Administrator,Maternity Leave,12-07-2024,16-07-2024,6,26,16,10,Jul
+Angela Morris,Finance,Financial Analyst,Casual Leave,19-12-2023,19-12-2023,1,28,27,1,Dec
+Mrs. Carla Griffith,HR,HR Manager,Casual Leave,16-08-2024,18-08-2024,4,30,13,17,Aug
+Theresa Garcia,Finance,Financial Analyst,Paternity Leave,26-02-2024,28-02-2024,3,30,20,10,Feb
+Cynthia Thompson,IT,System Administrator,Earned Leave,18-01-2024,26-01-2024,8,25,15,10,Jan
+Sherri Gordon,Finance,Financial Analyst,Casual Leave,30-07-2024,01-08-2024,3,20,17,3,Jul
+Kim Ross,HR,Recruiter,Casual Leave,04-12-2024,11-12-2024,8,24,8,16,Dec
+Kristina Porter,IT,Software Engineer,Paternity Leave,24-10-2024,30-10-2024,7,25,15,10,Oct
+Carly Wilson,Finance,Financial Analyst,Maternity Leave,07-06-2024,08-06-2024,1,22,10,12,Jun
+Brooke Hudson,Marketing,Marketing Specialist,Casual Leave,22-11-2024,24-11-2024,2,25,4,21,Nov
+Sara Proctor,IT,Software Engineer,Earned Leave,07-06-2024,07-06-2024,1,24,1,23,Jun
+Mrs. Catherine Dodson,Operations,Operations Manager,Paternity Leave,17-10-2024,23-10-2024,8,22,8,14,Oct
+Amber Snyder,Finance,Accountant,Sick Leave,31-03-2024,01-04-2024,3,23,3,20,Mar
+Michael Adkins,IT,Software Engineer,Paternity Leave,04-01-2024,04-01-2024,1,25,22,3,Jan
+Kimberly Maxwell,Operations,Logistics Coordinator,Earned Leave,17-03-2024,21-03-2024,5,23,14,9,Mar
+Doris Haney,HR,HR Manager,Earned Leave,01-09-2024,02-09-2024,2,24,15,9,Sep
+Jeffrey Garrett,Finance,Accountant,Paternity Leave,16-06-2024,20-06-2024,5,20,15,5,Jun
+Erin Sellers,IT,Software Engineer,Paternity Leave,08-05-2024,08-05-2024,1,21,4,17,May
+Donna Thompson,Finance,Financial Analyst,Casual Leave,08-09-2024,13-09-2024,5,20,5,15,Sep
+Mark Boyd,HR,Recruiter,Sick Leave,21-08-2024,23-08-2024,4,26,4,22,Aug
+Janice Johnson,Finance,Accountant,Sick Leave,11-09-2024,20-09-2024,10,23,10,13,Sep
+Kelly Adams,Operations,Operations Manager,Sick Leave,09-10-2024,16-10-2024,8,21,8,13,Oct
+Leslie Barajas,HR,HR Manager,Casual Leave,16-03-2024,24-03-2024,10,23,13,10,Mar
+Timothy Carter,Finance,Financial Analyst,Earned Leave,05-03-2024,07-03-2024,2,20,8,12,Mar
+Raymond Fernandez,Operations,Operations Manager,Earned Leave,15-12-2024,18-12-2024,3,29,21,8,Dec
+Sean Smith,IT,System Administrator,Sick Leave,01-07-2024,06-07-2024,7,25,9,16,Jul
+Jeffery Jones,Finance,Financial Analyst,Casual Leave,14-01-2024,16-01-2024,4,24,20,4,Jan
+Brett Knox,Operations,Operations Manager,Paternity Leave,17-04-2024,24-04-2024,8,27,8,19,Apr
+Miranda Weaver,HR,Recruiter,Paternity Leave,22-12-2023,30-12-2023,9,28,9,19,Dec
+Erik Morris,HR,Recruiter,Paternity Leave,13-04-2024,14-04-2024,1,26,24,2,Apr
+Nicholas Berry,IT,System Administrator,Casual Leave,26-04-2024,27-04-2024,3,24,7,17,Apr
+Jacob Gomez,Marketing,SEO Analyst,Casual Leave,23-03-2024,01-04-2024,10,26,10,16,Mar
+Lisa Gibson,Operations,Operations Manager,Maternity Leave,29-06-2024,02-07-2024,4,29,18,11,Jun
+Jacob Townsend,HR,HR Manager,Casual Leave,14-08-2024,15-08-2024,3,27,16,11,Aug
+Joseph Hanna,Operations,Operations Manager,Sick Leave,28-08-2024,01-09-2024,5,22,6,16,Aug
+Leah Wagner,HR,HR Manager,Paternity Leave,05-09-2024,12-09-2024,8,22,8,14,Sep
+John Montgomery,Marketing,Marketing Specialist,Earned Leave,02-09-2024,11-09-2024,10,21,10,11,Sep
+Ashley Humphrey,IT,Software Engineer,Earned Leave,07-02-2024,10-02-2024,5,29,9,20,Feb
+Jason Carter,Finance,Financial Analyst,Sick Leave,06-12-2024,14-12-2024,10,23,10,13,Dec
+Edward Bishop,Marketing,Marketing Specialist,Maternity Leave,22-11-2024,27-11-2024,6,29,6,23,Nov
+Donna Wells,Operations,Logistics Coordinator,Earned Leave,13-11-2024,17-11-2024,6,30,15,15,Nov
+Michael Merritt,HR,Recruiter,Paternity Leave,31-08-2024,01-09-2024,2,25,20,5,Aug
+Lisa Jones,IT,Software Engineer,Maternity Leave,11-03-2024,17-03-2024,7,22,7,15,Mar
+Jimmy Arnold,Operations,Logistics Coordinator,Sick Leave,24-07-2024,28-07-2024,6,27,17,10,Jul
+Mr. Erik Meyer,Marketing,Marketing Specialist,Paternity Leave,26-02-2024,03-03-2024,8,22,8,14,Feb
+Sean Williams,HR,Recruiter,Earned Leave,27-11-2024,29-11-2024,4,22,13,9,Nov
+Stacey Obrien,Operations,Operations Manager,Sick Leave,30-10-2024,08-11-2024,11,24,11,13,Oct
+Tonya Murray,Marketing,SEO Analyst,Sick Leave,01-04-2024,07-04-2024,7,29,18,11,Apr
+Margaret Huber,Operations,Logistics Coordinator,Casual Leave,21-05-2024,26-05-2024,6,29,7,22,May
+Vanessa Rogers,Operations,Logistics Coordinator,Paternity Leave,26-10-2024,03-11-2024,9,22,11,11,Oct
+Tammy Pearson,IT,Software Engineer,Casual Leave,09-08-2024,12-08-2024,4,20,15,5,Aug
+Shelly Wagner,Finance,Financial Analyst,Sick Leave,03-06-2024,10-06-2024,8,22,8,14,Jun
+Heather Martin,IT,Software Engineer,Sick Leave,21-09-2024,24-09-2024,3,30,6,24,Sep
+Alexandra Pitts,Marketing,Marketing Specialist,Sick Leave,27-06-2024,06-07-2024,10,28,10,18,Jun
+Jared Anderson,Finance,Financial Analyst,Sick Leave,02-02-2024,07-02-2024,5,28,12,16,Feb
+Paul Barry,Finance,Accountant,Earned Leave,08-06-2024,17-06-2024,11,29,11,18,Jun
+Theresa Barber MD,HR,Recruiter,Paternity Leave,24-12-2023,30-12-2023,8,24,8,16,Dec
+Corey Richmond,Operations,Logistics Coordinator,Maternity Leave,22-07-2024,26-07-2024,5,29,17,12,Jul
+Donna Walsh,Finance,Accountant,Maternity Leave,02-04-2024,08-04-2024,7,22,7,15,Apr
+April Fields,HR,Recruiter,Paternity Leave,23-12-2023,29-12-2023,7,28,7,21,Dec
+Todd Vaughn,Marketing,Marketing Specialist,Sick Leave,28-03-2024,01-04-2024,5,26,13,13,Mar
+James Oliver,Finance,Financial Analyst,Paternity Leave,18-06-2024,23-06-2024,7,29,13,16,Jun
+Joseph Benson,IT,System Administrator,Paternity Leave,04-05-2024,10-05-2024,7,25,12,13,May
+Paul Wade,IT,System Administrator,Paternity Leave,03-06-2024,07-06-2024,5,23,5,18,Jun
+Anthony Walker,Marketing,Marketing Specialist,Casual Leave,26-01-2024,28-01-2024,4,24,6,18,Jan
+John Francis,Operations,Operations Manager,Sick Leave,27-02-2024,05-03-2024,8,28,14,14,Feb
+Kim Rodriguez,Marketing,SEO Analyst,Casual Leave,30-03-2024,05-04-2024,6,23,6,17,Mar
+Elizabeth Hughes,Operations,Operations Manager,Paternity Leave,14-04-2024,17-04-2024,3,20,8,12,Apr
+Peggy Trujillo,Operations,Operations Manager,Earned Leave,22-03-2024,26-03-2024,4,30,24,6,Mar
+Kimberly Nichols,IT,System Administrator,Casual Leave,06-06-2024,10-06-2024,5,29,5,24,Jun
+Christopher Henderson,IT,System Administrator,Maternity Leave,15-08-2024,18-08-2024,4,27,9,18,Aug
+William Lopez,Finance,Financial Analyst,Earned Leave,16-01-2024,20-01-2024,4,20,11,9,Jan
+Ruben Marshall,HR,HR Manager,Earned Leave,04-09-2024,07-09-2024,4,28,9,19,Sep
+John Miller,Marketing,SEO Analyst,Maternity Leave,20-10-2024,21-10-2024,1,27,12,15,Oct
+Thomas Daniels,HR,Recruiter,Maternity Leave,27-09-2024,01-10-2024,4,27,4,23,Sep
+Henry Beck,Marketing,SEO Analyst,Sick Leave,04-05-2024,08-05-2024,4,20,4,16,May
+Steven Thomas,Finance,Accountant,Sick Leave,22-08-2024,24-08-2024,3,22,6,16,Aug
+Christina Moran,HR,HR Manager,Paternity Leave,08-10-2024,12-10-2024,5,21,6,15,Oct
+Andrew Bolton,Operations,Operations Manager,Paternity Leave,27-11-2024,01-12-2024,4,30,10,20,Nov
+Martin Townsend,HR,Recruiter,Casual Leave,07-08-2024,15-08-2024,9,26,10,16,Aug
+Ashley Brewer,IT,Software Engineer,Sick Leave,31-03-2024,01-04-2024,2,29,18,11,Mar
+Mrs. Melissa Bryant,IT,System Administrator,Maternity Leave,29-05-2024,03-06-2024,6,23,7,16,May
+Bill Johnson,Finance,Financial Analyst,Paternity Leave,25-12-2023,30-12-2023,5,26,5,21,Dec
+Christopher Ross,IT,System Administrator,Sick Leave,16-03-2024,21-03-2024,7,25,7,18,Mar
+Danielle Hamilton,Finance,Accountant,Paternity Leave,12-09-2024,13-09-2024,2,27,18,9,Sep
+Kayla Anderson,Finance,Financial Analyst,Earned Leave,06-03-2024,15-03-2024,10,29,10,19,Mar
+Dr. Lisa Hamilton MD,Operations,Operations Manager,Casual Leave,26-12-2023,30-12-2023,6,20,9,11,Dec
+Shelby Franklin,HR,HR Manager,Paternity Leave,24-05-2024,29-05-2024,5,24,5,19,May
+Maxwell Gordon,Operations,Logistics Coordinator,Sick Leave,03-02-2024,11-02-2024,9,21,9,12,Feb
+Richard Miller,Marketing,Marketing Specialist,Paternity Leave,16-03-2024,23-03-2024,8,30,15,15,Mar
+Kyle Martinez,Operations,Logistics Coordinator,Maternity Leave,18-04-2024,18-04-2024,1,22,17,5,Apr
+Thomas Preston,Marketing,Marketing Specialist,Casual Leave,11-04-2024,15-04-2024,6,28,12,16,Apr
+Shawn Baker,HR,HR Manager,Casual Leave,10-05-2024,15-05-2024,7,28,7,21,May
+Juan Foster,Finance,Accountant,Sick Leave,05-05-2024,11-05-2024,8,21,8,13,May
+Nicholas Thompson,Finance,Accountant,Sick Leave,11-05-2024,12-05-2024,2,23,4,19,May
+Shannon Lowe,HR,Recruiter,Sick Leave,04-02-2024,05-02-2024,2,21,17,4,Feb
+Tiffany Cabrera,HR,Recruiter,Earned Leave,19-08-2024,25-08-2024,8,22,8,14,Aug
+Benjamin Wood,HR,HR Manager,Sick Leave,16-11-2024,23-11-2024,9,24,9,15,Nov
+Alexandra Campbell,IT,System Administrator,Maternity Leave,08-12-2024,13-12-2024,5,20,5,15,Dec
+Andrew Mendez,Finance,Financial Analyst,Earned Leave,05-03-2024,13-03-2024,8,22,8,14,Mar
+Francisco Hamilton,Marketing,SEO Analyst,Casual Leave,12-04-2024,20-04-2024,9,21,9,12,Apr
+Eric Bates,Operations,Logistics Coordinator,Sick Leave,30-06-2024,07-07-2024,8,25,15,10,Jun
+Jared Douglas,Operations,Logistics Coordinator,Sick Leave,27-12-2023,03-01-2024,9,26,9,17,Dec
+Katie Stewart,HR,HR Manager,Sick Leave,30-05-2024,01-06-2024,4,26,4,22,May
+Shannon Hanson,IT,System Administrator,Sick Leave,04-09-2024,11-09-2024,9,21,9,12,Sep
+Patricia Simon,Operations,Operations Manager,Paternity Leave,16-10-2024,17-10-2024,3,29,3,26,Oct
+Rhonda Gilbert,Finance,Financial Analyst,Paternity Leave,21-03-2024,24-03-2024,3,29,3,26,Mar
+Shane Mcguire,Finance,Financial Analyst,Casual Leave,04-02-2024,12-02-2024,9,30,12,18,Feb
+Jennifer Wiggins,Operations,Operations Manager,Paternity Leave,27-07-2024,04-08-2024,9,27,9,18,Jul
+William Farrell,Operations,Logistics Coordinator,Earned Leave,26-09-2024,04-10-2024,9,30,20,10,Sep
+Elizabeth Johnson,Marketing,SEO Analyst,Earned Leave,22-04-2024,01-05-2024,10,21,11,10,Apr
+Amanda Thompson,HR,Recruiter,Earned Leave,31-01-2024,06-02-2024,7,27,13,14,Jan
+Kristopher Estrada,Finance,Accountant,Earned Leave,02-01-2024,02-01-2024,1,22,7,15,Jan
+Molly Vang,IT,System Administrator,Sick Leave,20-04-2024,21-04-2024,2,28,15,13,Apr
+Brett Dickerson,HR,Recruiter,Maternity Leave,19-08-2024,19-08-2024,1,26,15,11,Aug
+Leslie Henry,IT,Software Engineer,Earned Leave,08-12-2024,16-12-2024,9,22,9,13,Dec
+William Abbott,HR,HR Manager,Paternity Leave,23-07-2024,26-07-2024,4,21,17,4,Jul
+Randall Medina,Marketing,Marketing Specialist,Paternity Leave,26-01-2024,01-02-2024,7,23,15,8,Jan
+Matthew Newman,Finance,Financial Analyst,Sick Leave,06-05-2024,15-05-2024,11,20,11,9,May
+Annette Coleman,HR,Recruiter,Sick Leave,09-01-2024,15-01-2024,7,28,7,21,Jan
+Natasha Garcia,HR,Recruiter,Paternity Leave,25-09-2024,01-10-2024,7,24,13,11,Sep
+Lisa Rasmussen,Marketing,SEO Analyst,Maternity Leave,27-11-2024,29-11-2024,3,30,15,15,Nov
+Jamie Moreno,IT,Software Engineer,Paternity Leave,22-06-2024,01-07-2024,11,30,16,14,Jun
+Traci Frye,HR,Recruiter,Earned Leave,11-04-2024,13-04-2024,3,20,3,17,Apr
+Rachel Branch,Finance,Accountant,Sick Leave,14-04-2024,22-04-2024,10,22,10,12,Apr
+Ashley Norton,Marketing,SEO Analyst,Maternity Leave,01-02-2024,02-02-2024,2,28,19,9,Feb
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,6,21,6,15,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,8,21,8,13,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,7,21,7,14,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,6,21,7,14,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,9,21,10,11,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,8,21,8,13,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,15,21,15,6,Nov
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Maternity Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,4,17,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,15,21,15,6,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,5,16,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,3,18,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Maternity Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,14,21,14,7,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Aug
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Sep
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Oct
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Nov
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,10,21,10,11,Dec
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jan
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Feb
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,14,21,14,7,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,13,21,13,8,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Mar
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Apr
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,8,21,8,13,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,5,21,6,15,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,May
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,4,21,4,17,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jun
+UCI_Employee,Unknown,Employee,Earned Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,15,21,15,6,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,3,21,3,18,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,2,21,2,19,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,10,21,10,11,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+UCI_Employee,Unknown,Employee,Sick Leave,01-01-2020,01-01-2020,1,21,1,20,Jul
+Synthetic_Employee,Marketing,SEO Analyst,Paternity Leave,01-01-2021,01-01-2021,4,21,12,9,Nov
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,7,21,7,14,Aug
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,5,21,9,12,Dec
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,1,25,7,18,Aug
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,8,24,13,11,Mar
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,9,28,17,11,Apr
+Synthetic_Employee,Marketing,SEO Analyst,Paternity Leave,01-01-2021,01-01-2021,5,21,14,7,Nov
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,9,22,9,13,Feb
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,6,30,15,15,Nov
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,8,24,18,6,Oct
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,6,24,6,18,May
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,12,28,12,16,Apr
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,3,23,17,6,Apr
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,4,21,8,13,Aug
+Synthetic_Employee,IT,System Administrator,Sick Leave,01-01-2021,01-01-2021,4,26,6,20,Mar
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,6,30,6,24,Jan
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,21,5,16,May
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,9,25,12,13,Dec
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,3,29,20,9,Jul
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,5,25,5,20,Sep
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,7,29,11,18,Nov
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,7,29,12,17,Jun
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,7,21,7,14,Jan
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,3,23,15,8,Feb
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,7,20,18,2,Jan
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,25,20,5,Jan
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,6,21,6,15,Aug
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,1,25,15,10,Sep
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,4,25,16,9,Jul
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,3,28,3,25,Jun
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,6,21,9,12,Aug
+Synthetic_Employee,IT,System Administrator,Casual Leave,01-01-2021,01-01-2021,5,30,5,25,Jun
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,4,20,16,4,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,8,24,16,8,Aug
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,8,28,15,13,Apr
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,2,29,4,25,Oct
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,8,22,8,14,Mar
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,11,24,11,13,Aug
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,4,25,15,10,Jul
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,6,20,9,11,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,1,21,19,2,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,8,22,8,14,Feb
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,11,24,11,13,Jul
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,9,30,16,14,Mar
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,1,26,7,19,Dec
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,8,25,8,17,Mar
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,5,23,12,11,Aug
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,7,28,11,17,Sep
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,4,30,4,26,Dec
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,11,30,11,19,Feb
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,3,30,13,17,Jul
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,10,28,10,18,Mar
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,3,19,14,5,Jun
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,7,27,17,10,Jul
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,5,30,19,11,Mar
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,7,24,7,17,Nov
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,8,25,8,17,Apr
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,2,20,17,3,Feb
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,8,21,8,13,Aug
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,6,29,16,13,Nov
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,8,21,8,13,Oct
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,2,24,16,8,Sep
+Synthetic_Employee,Marketing,SEO Analyst,Maternity Leave,01-01-2021,01-01-2021,2,30,14,16,Nov
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,10,24,10,14,Dec
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,1,28,15,13,Aug
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,5,23,12,11,May
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,7,21,7,14,Feb
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,2,29,2,27,Oct
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,6,22,6,16,Mar
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,7,22,7,15,Oct
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,25,20,5,Jan
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,6,28,6,22,Sep
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,1,25,20,5,Feb
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,7,22,14,8,Dec
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,8,25,17,8,Jan
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,6,28,6,22,Jan
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,4,26,18,8,Jan
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,1,21,1,20,Oct
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,1,23,12,11,Nov
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,5,30,16,14,Jul
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,6,23,14,9,Aug
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,9,24,12,12,Apr
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,1,25,15,10,Aug
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,3,19,7,12,Dec
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,10,25,10,15,Dec
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,5,29,6,23,Sep
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,2,23,14,9,Jun
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,3,22,15,7,Aug
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,2,24,18,6,Jan
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,9,24,9,15,May
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,9,22,9,13,Apr
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,2,22,13,9,Jan
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,6,23,6,17,Oct
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,2,25,19,6,Aug
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,8,20,8,12,May
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,7,25,18,7,Oct
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,8,21,8,13,Feb
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,6,29,6,23,Nov
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,4,24,4,20,Dec
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,5,30,7,23,Sep
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,5,22,5,17,Jun
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,4,23,17,6,Apr
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,9,26,9,17,Dec
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,5,20,5,15,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,7,27,16,11,Jul
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,1,30,17,13,Mar
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,10,28,10,18,Jul
+Synthetic_Employee,Operations,Operations Manager,Maternity Leave,01-01-2021,01-01-2021,3,29,18,11,Jun
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,7,23,11,12,Dec
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,4,25,9,16,Jul
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,8,25,16,9,Jan
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,3,24,13,11,Nov
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,10,25,10,15,Dec
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,4,24,4,20,Mar
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,5,21,5,16,Aug
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,1,26,10,16,May
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,6,28,19,9,Apr
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,9,23,9,14,Dec
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,9,23,12,11,May
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,5,24,5,19,Oct
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,9,22,9,13,Sep
+Synthetic_Employee,IT,System Administrator,Casual Leave,01-01-2021,01-01-2021,10,29,10,19,Jul
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,5,27,9,18,Mar
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,10,28,10,18,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,1,29,11,18,Mar
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,1,23,1,22,Mar
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,3,30,20,10,Mar
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,10,19,10,9,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,12,30,20,10,Sep
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,6,23,8,15,Feb
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,4,22,17,5,Jan
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,1,30,7,23,Aug
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,7,27,7,20,Oct
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,5,26,5,21,May
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,10,30,18,12,Sep
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,2,25,12,13,Jun
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,2,27,12,15,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,6,30,20,10,Mar
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,7,26,13,13,Jan
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,1,27,20,7,Jul
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,7,24,9,15,Dec
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,5,24,15,9,Sep
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,3,21,14,7,Aug
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,9,27,9,18,Jul
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,6,24,14,10,May
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,3,24,11,13,Dec
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,7,21,7,14,Apr
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,1,27,16,11,Sep
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,4,22,7,15,Mar
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,9,27,14,13,Jul
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,9,27,9,18,Jun
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,4,19,15,4,Aug
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,5,29,8,21,Dec
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,3,23,3,20,Feb
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,9,29,10,19,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,2,30,9,21,Mar
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,3,27,11,16,May
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,9,23,9,14,Apr
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,4,21,17,4,Jul
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,5,29,15,14,Feb
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,5,20,5,15,Aug
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,4,21,7,14,May
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,6,24,13,11,Sep
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,3,28,13,15,Feb
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,4,21,4,17,Jun
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,4,29,15,14,Feb
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,4,23,14,9,Aug
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,3,23,3,20,Mar
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,5,27,14,13,Feb
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,6,26,6,20,Dec
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,4,24,14,10,Nov
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,1,22,11,11,Nov
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,12,30,12,18,Feb
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,7,21,10,11,Oct
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,4,20,15,5,Aug
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,4,29,14,15,Oct
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,4,23,13,10,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,6,22,8,14,Feb
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,7,22,7,15,Feb
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,6,26,16,10,Jul
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,2,30,8,22,Mar
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,2,18,9,9,Mar
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,4,27,8,19,Sep
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,9,27,9,18,Dec
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,1,25,5,20,Nov
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,4,20,6,14,Mar
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,5,29,17,12,Mar
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,5,27,6,21,Jan
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,1,30,1,29,Oct
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,1,23,1,22,Oct
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,5,20,7,13,Mar
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,9,27,14,13,Feb
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,11,23,11,12,Aug
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,4,30,4,26,Nov
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,4,22,20,2,Jan
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,10,23,10,13,Nov
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,3,24,3,21,Mar
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,4,27,18,9,Sep
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,2,30,20,10,Jul
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,4,21,7,14,Oct
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,8,21,11,10,Jul
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,2,30,20,10,Jul
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,4,29,20,9,Dec
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,1,25,20,5,Jul
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,12,23,12,11,Dec
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,3,26,18,8,Jan
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,6,27,7,20,May
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,1,25,1,24,Apr
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,4,22,4,18,Apr
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,6,26,19,7,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,12,22,12,10,Feb
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,7,22,7,15,Oct
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,10,26,10,16,Aug
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,6,23,6,17,Nov
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,4,24,12,12,Jun
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,6,28,6,22,Dec
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,11,27,11,16,Aug
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,5,25,5,20,Sep
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,3,28,8,20,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,1,30,12,18,Mar
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,5,25,5,20,Jan
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,8,20,8,12,Apr
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,5,25,20,5,Oct
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,8,21,11,10,Jul
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,3,25,16,9,Aug
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,3,22,17,5,Apr
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,8,30,8,22,Apr
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,8,30,8,22,Feb
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,6,27,20,7,Sep
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,5,29,20,9,Jul
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,4,22,10,12,Dec
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,6,23,16,7,Jul
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,4,28,15,13,Feb
+Synthetic_Employee,Operations,Operations Manager,Maternity Leave,01-01-2021,01-01-2021,1,28,3,25,Jan
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,7,25,11,14,Aug
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,2,30,6,24,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,8,21,8,13,Nov
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,3,26,17,9,Oct
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,10,26,10,16,Sep
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,4,26,4,22,Aug
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,10,22,11,11,Apr
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,2,24,15,9,Aug
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,7,18,7,11,Jul
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,3,30,19,11,Jul
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,7,29,14,15,Dec
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,3,27,15,12,Aug
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,8,24,10,14,Dec
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,7,24,16,8,Aug
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,10,21,10,11,Sep
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,2,26,20,6,Jul
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,5,20,11,9,Apr
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,1,30,20,10,Dec
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,5,25,5,20,Sep
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,5,23,5,18,Jun
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,11,28,11,17,Oct
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,6,30,16,14,Sep
+Synthetic_Employee,Finance,Accountant,Earned Leave,01-01-2021,01-01-2021,9,29,9,20,Jun
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,3,29,3,26,Jun
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,9,30,15,15,Mar
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,8,27,8,19,Jul
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,7,22,12,10,Dec
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,9,22,9,13,Jun
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,9,27,12,15,Dec
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,7,26,12,14,Jan
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,3,30,3,27,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,9,30,20,10,Sep
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,8,21,14,7,Jul
+Synthetic_Employee,Finance,Accountant,Earned Leave,01-01-2021,01-01-2021,6,28,20,8,Nov
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,1,23,7,16,Dec
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,23,4,19,May
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,7,19,7,12,Jan
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,9,30,19,11,Mar
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,4,22,4,18,Feb
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,3,20,14,6,Nov
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,11,30,11,19,Oct
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,6,28,18,10,Dec
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,12,30,16,14,Aug
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,3,25,20,5,Oct
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,5,23,5,18,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,1,26,5,21,Mar
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,2,28,2,26,Oct
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,8,22,8,14,Dec
+Synthetic_Employee,HR,HR Manager,Maternity Leave,01-01-2021,01-01-2021,2,30,8,22,May
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,2,26,20,6,Oct
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,2,24,20,4,Jan
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,5,24,9,15,Dec
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,4,19,16,3,Jun
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,4,30,11,19,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,2,30,20,10,Jul
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,7,24,7,17,May
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,3,26,20,6,Jul
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,9,21,13,8,Jun
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,6,30,6,24,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,7,29,7,22,May
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,11,29,11,18,Feb
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,10,29,10,19,Nov
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,3,23,11,12,Apr
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,2,28,2,26,Oct
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,8,30,20,10,Sep
+Synthetic_Employee,IT,System Administrator,Sick Leave,01-01-2021,01-01-2021,2,28,16,12,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,3,23,3,20,Apr
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,6,26,17,9,May
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,3,30,3,27,Aug
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,7,20,7,13,Dec
+Synthetic_Employee,Operations,Operations Manager,Maternity Leave,01-01-2021,01-01-2021,2,29,5,24,Jan
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,9,23,9,14,Apr
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,3,21,14,7,Jan
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,1,28,20,8,Dec
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,12,23,12,11,Dec
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,2,18,18,0,Jan
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,4,27,9,18,Sep
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,7,22,7,15,Mar
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,7,29,7,22,Nov
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,9,25,9,16,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,9,30,9,21,Feb
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,7,25,19,6,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,8,29,14,15,Mar
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,6,25,15,10,Aug
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,4,27,4,23,Oct
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,11,26,11,15,Jul
+Synthetic_Employee,IT,System Administrator,Sick Leave,01-01-2021,01-01-2021,1,29,16,13,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,5,30,14,16,Nov
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,6,30,6,24,Jun
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,7,26,7,19,Sep
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,7,21,7,14,Oct
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,3,22,15,7,Nov
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,3,25,14,11,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,3,23,16,7,Oct
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,1,20,6,14,Aug
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,9,28,9,19,Nov
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,5,21,20,1,Jul
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,3,19,17,2,Jan
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,8,21,8,13,Aug
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,9,30,9,21,Feb
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,3,21,3,18,Jun
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,9,30,15,15,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,6,22,8,14,Feb
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,2,24,7,17,Jun
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,2,25,12,13,Oct
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,8,21,8,13,Mar
+Synthetic_Employee,Marketing,SEO Analyst,Paternity Leave,01-01-2021,01-01-2021,7,20,13,7,Nov
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,10,21,10,11,Oct
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,6,24,6,18,May
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,7,19,7,12,Jan
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,10,26,10,16,Aug
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,2,24,3,21,May
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,6,25,9,16,Nov
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,4,29,13,16,Jul
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,9,30,9,21,Oct
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,8,22,11,11,Jul
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,10,20,10,10,Aug
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,5,28,17,11,Sep
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,5,21,5,16,Apr
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,8,23,8,15,Jul
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,11,30,11,19,Nov
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,6,26,12,14,Feb
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,6,23,10,13,Jun
+Synthetic_Employee,IT,System Administrator,Sick Leave,01-01-2021,01-01-2021,6,19,6,13,Sep
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,4,26,17,9,May
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,1,25,18,7,Jan
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,9,30,9,21,Nov
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,12,23,12,11,Feb
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,6,21,6,15,Dec
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,5,23,5,18,Jan
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,8,21,8,13,Dec
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,3,25,10,15,May
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,6,26,13,13,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,7,24,17,7,Feb
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,2,22,13,9,Jan
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,8,22,12,10,Aug
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,8,27,12,15,May
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,7,23,7,16,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,7,23,12,11,Mar
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,20,5,15,May
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,1,24,15,9,Aug
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,1,24,2,22,May
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,2,27,10,17,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,10,25,10,15,Apr
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,4,29,15,14,Jan
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,10,24,10,14,Aug
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,10,18,10,8,Oct
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,2,26,2,24,Jun
+Synthetic_Employee,Marketing,SEO Analyst,Earned Leave,01-01-2021,01-01-2021,10,21,11,10,Apr
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,2,22,11,11,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,1,27,16,11,Aug
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,7,21,7,14,Jan
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,1,25,2,23,Dec
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,7,23,7,16,Jun
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,3,25,20,5,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,5,28,18,10,Jul
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,11,21,11,10,Dec
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,4,27,4,23,May
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,1,26,16,10,Aug
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,11,25,11,14,Aug
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,10,28,18,10,Apr
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,9,26,9,17,Oct
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,5,20,5,15,May
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,7,30,20,10,Apr
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,5,19,13,6,Jan
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,6,25,7,18,May
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,8,20,8,12,Dec
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,3,21,17,4,Jul
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,8,29,8,21,May
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,5,20,5,15,May
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,8,19,12,7,Jul
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,1,26,10,16,May
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,8,26,8,18,Dec
+Synthetic_Employee,Finance,Accountant,Earned Leave,01-01-2021,01-01-2021,9,28,20,8,Nov
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,5,30,9,21,Apr
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,3,30,3,27,Oct
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,5,27,10,17,Sep
+Synthetic_Employee,IT,System Administrator,Sick Leave,01-01-2021,01-01-2021,9,23,9,14,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,1,30,9,21,Mar
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,9,28,9,19,Apr
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,4,29,20,9,Feb
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,10,22,12,10,Apr
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,3,21,10,11,Apr
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,8,24,16,8,Jan
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,4,19,4,15,Jun
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,6,21,6,15,May
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,4,27,15,12,Jan
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,1,24,20,4,Nov
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,11,23,11,12,Jan
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,6,29,20,9,Mar
+Synthetic_Employee,Marketing,SEO Analyst,Earned Leave,01-01-2021,01-01-2021,10,21,14,7,Apr
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,7,24,7,17,Feb
+Synthetic_Employee,HR,HR Manager,Maternity Leave,01-01-2021,01-01-2021,2,30,8,22,May
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,6,30,11,19,Nov
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,2,19,9,10,Apr
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,1,24,2,22,Dec
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,5,30,15,15,Nov
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,8,22,8,14,Dec
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,11,29,15,14,Mar
+Synthetic_Employee,Marketing,SEO Analyst,Maternity Leave,01-01-2021,01-01-2021,8,28,8,20,Nov
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,11,24,11,13,Dec
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,8,26,11,15,Apr
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,6,22,19,3,Jan
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,8,19,8,11,Oct
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,6,30,20,10,Sep
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,7,24,12,12,Jul
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,7,25,7,18,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,11,26,11,15,Dec
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,7,27,7,20,Sep
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,2,21,14,7,Apr
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,19,3,16,May
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,1,30,3,27,Sep
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,5,30,15,15,Aug
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,4,27,20,7,Oct
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,6,26,7,19,Mar
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,1,26,8,18,May
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,10,29,10,19,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,2,20,2,18,Apr
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,2,25,14,11,Sep
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,10,21,11,10,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,2,27,9,18,Mar
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,8,21,8,13,May
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,1,22,9,13,Jun
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,5,27,5,22,Nov
+Synthetic_Employee,IT,System Administrator,Sick Leave,01-01-2021,01-01-2021,6,21,6,15,Sep
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,8,21,8,13,Mar
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,7,27,15,12,Jan
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,7,18,7,11,Dec
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,9,26,9,17,Oct
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,3,25,16,9,May
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,6,21,6,15,Mar
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,3,23,3,20,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,8,20,14,6,Sep
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,6,29,12,17,Aug
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,5,26,7,19,May
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,8,20,8,12,Apr
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,11,26,11,15,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,1,23,16,7,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,8,29,20,9,Sep
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,11,25,11,14,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,4,29,8,21,May
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,7,19,7,12,Aug
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,10,22,10,12,Aug
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,2,25,15,10,Aug
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,3,25,19,6,Oct
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,9,29,12,17,Aug
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,7,21,8,13,Feb
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,3,25,3,22,Apr
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,10,22,10,12,Aug
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,8,25,9,16,Jan
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,11,24,11,13,Dec
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,6,19,6,13,Jun
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,7,23,7,16,Dec
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,2,24,8,16,Jul
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,7,21,9,12,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,7,29,7,22,May
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,7,21,7,14,Feb
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,5,25,5,20,Sep
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,9,19,11,8,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,4,30,14,16,Nov
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,12,23,12,11,Oct
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,5,26,13,13,Mar
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,4,21,8,13,Jan
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,3,24,6,18,Jan
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,9,24,9,15,Apr
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,9,27,9,18,Jan
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,9,29,11,18,Nov
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,5,30,10,20,Nov
+Synthetic_Employee,Finance,Accountant,Earned Leave,01-01-2021,01-01-2021,11,27,11,16,Jun
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,7,26,7,19,Aug
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,2,22,11,11,Apr
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,2,24,9,15,Dec
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,5,23,17,6,Nov
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,4,20,19,1,Jan
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,10,26,10,16,Jul
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,8,23,8,15,Feb
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,3,25,3,22,Aug
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,6,21,6,15,Mar
+Synthetic_Employee,IT,System Administrator,Casual Leave,01-01-2021,01-01-2021,9,30,9,21,Jul
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,7,29,7,22,Jun
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,2,21,2,19,Oct
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,13,19,13,6,Aug
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,6,20,7,13,Mar
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,9,27,11,16,Oct
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,7,23,12,11,Jan
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,4,24,13,11,May
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,8,20,8,12,Oct
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,8,21,8,13,Apr
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,8,24,15,9,Oct
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,1,30,3,27,Oct
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,5,21,14,7,May
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,8,28,8,20,Apr
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,8,23,14,9,Sep
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,9,24,9,15,Dec
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,3,26,11,15,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,11,30,11,19,Feb
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,3,22,7,15,Dec
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,5,18,7,11,Apr
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,5,22,12,10,Nov
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,2,27,13,14,Oct
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,9,30,9,21,Nov
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,4,30,20,10,Jul
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,6,20,6,14,Dec
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,3,23,14,9,Sep
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,4,20,15,5,Jun
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,6,22,9,13,Jun
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,6,26,6,20,May
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,11,30,11,19,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,6,30,18,12,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,9,30,9,21,Feb
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,2,27,8,19,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,10,30,10,20,Feb
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,3,26,18,8,Mar
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,8,30,16,14,Nov
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,6,23,7,16,Dec
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,9,30,9,21,Dec
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,7,22,7,15,Oct
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,6,26,10,16,Feb
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,5,21,15,6,Apr
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,6,30,7,23,Sep
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,6,20,15,5,Jul
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,8,25,16,9,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,9,18,9,9,Jan
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,4,22,4,18,Apr
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,3,24,18,6,Jul
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,2,24,2,22,Oct
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,7,23,7,16,Dec
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,11,30,11,19,Feb
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,4,26,18,8,Sep
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,8,22,8,14,Aug
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,7,24,8,16,Feb
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,8,22,12,10,Oct
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,8,25,8,17,Nov
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,3,25,5,20,Jul
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,9,23,9,14,Sep
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,9,24,9,15,Feb
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,6,23,15,8,Apr
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,11,23,11,12,Dec
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,3,21,3,18,Oct
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,5,23,9,14,Oct
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,3,28,18,10,Feb
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,2,25,12,13,Jun
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,4,21,12,9,Nov
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,4,29,11,18,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,10,27,10,17,Jun
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,2,20,3,17,May
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,11,22,11,11,Aug
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,5,25,20,5,Jan
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,3,25,10,15,Feb
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,3,23,13,10,Nov
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,9,28,14,14,Feb
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,10,27,16,11,Dec
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,1,24,7,17,Dec
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,5,29,11,18,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,3,27,12,15,Feb
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,6,22,8,14,May
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,9,21,14,7,Mar
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,3,29,20,9,Apr
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,6,27,14,13,Jan
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,3,20,8,12,Apr
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,4,23,8,15,Aug
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,6,21,7,14,Mar
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,8,28,8,20,Jun
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,1,27,13,14,Aug
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,8,24,15,9,Jan
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,4,23,8,15,Jan
+Synthetic_Employee,Operations,Logistics Coordinator,Paternity Leave,01-01-2021,01-01-2021,7,21,11,10,Oct
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,3,23,6,17,Jan
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,3,30,13,17,Aug
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,5,29,7,22,May
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,8,30,11,19,Feb
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,2,23,14,9,Nov
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,8,24,8,16,Mar
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,12,25,12,13,Jul
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,3,29,14,15,Aug
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,5,21,5,16,Oct
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,4,20,19,1,Jan
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,4,24,20,4,Oct
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,9,30,15,15,Aug
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,8,22,17,5,Mar
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,3,26,5,21,Sep
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,2,25,17,8,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,8,27,8,19,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,7,21,7,14,Feb
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,9,27,9,18,Jun
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,11,25,11,14,Apr
+Synthetic_Employee,IT,System Administrator,Casual Leave,01-01-2021,01-01-2021,5,21,9,12,Jun
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,11,21,11,10,Aug
+Synthetic_Employee,Marketing,SEO Analyst,Maternity Leave,01-01-2021,01-01-2021,4,27,20,7,Oct
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,2,22,2,20,Oct
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,5,23,5,18,Dec
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,2,30,2,28,Jun
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,10,30,10,20,Feb
+Synthetic_Employee,IT,System Administrator,Casual Leave,01-01-2021,01-01-2021,1,22,4,18,Apr
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,11,30,11,19,Mar
+Synthetic_Employee,IT,System Administrator,Sick Leave,01-01-2021,01-01-2021,4,27,14,13,Apr
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,2,21,2,19,Oct
+Synthetic_Employee,HR,HR Manager,Maternity Leave,01-01-2021,01-01-2021,2,29,12,17,May
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,1,25,7,18,Aug
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,12,23,12,11,Dec
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,2,30,16,14,Jan
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,7,20,7,13,May
+Synthetic_Employee,IT,Software Engineer,Casual Leave,01-01-2021,01-01-2021,9,23,9,14,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,8,22,19,3,Feb
+Synthetic_Employee,Finance,Accountant,Paternity Leave,01-01-2021,01-01-2021,1,29,19,10,Sep
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,6,19,6,13,May
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,11,30,11,19,Feb
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,7,29,13,16,Jun
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,7,30,18,12,Apr
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,1,24,4,20,Aug
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,12,22,12,10,Nov
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,4,30,18,12,Mar
+Synthetic_Employee,Operations,Operations Manager,Maternity Leave,01-01-2021,01-01-2021,5,30,18,12,Jun
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,7,28,11,17,Feb
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,4,22,6,16,Feb
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,9,22,14,8,Jul
+Synthetic_Employee,Marketing,SEO Analyst,Paternity Leave,01-01-2021,01-01-2021,7,20,11,9,Nov
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,2,21,5,16,May
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,5,22,5,17,Oct
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,10,22,10,12,Jun
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,7,26,7,19,Jan
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,2,23,2,21,Oct
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,6,25,12,13,Jan
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,7,25,7,18,Sep
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,10,26,10,16,Apr
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,5,20,5,15,May
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,2,29,8,21,Sep
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,3,30,12,18,Jul
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,4,30,4,26,Jun
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,6,24,15,9,Aug
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,6,27,6,21,Sep
+Synthetic_Employee,Marketing,SEO Analyst,Earned Leave,01-01-2021,01-01-2021,8,22,13,9,Apr
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,7,23,8,15,May
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,5,25,5,20,Nov
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,7,23,7,16,Dec
+Synthetic_Employee,Operations,Logistics Coordinator,Earned Leave,01-01-2021,01-01-2021,1,25,15,10,Aug
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,4,21,4,17,Oct
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,6,24,6,18,May
+Synthetic_Employee,Operations,Logistics Coordinator,Maternity Leave,01-01-2021,01-01-2021,8,21,8,13,Feb
+Synthetic_Employee,IT,System Administrator,Casual Leave,01-01-2021,01-01-2021,3,23,6,17,Apr
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,2,27,11,16,Oct
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,3,28,14,14,Mar
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,7,24,12,12,Jan
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,9,26,14,12,Feb
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,2,22,16,6,Sep
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,4,30,4,26,Sep
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,2,23,3,20,Apr
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,3,23,9,14,Jun
+Synthetic_Employee,HR,HR Manager,Maternity Leave,01-01-2021,01-01-2021,2,29,7,22,May
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,8,24,8,16,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,2,27,6,21,Nov
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,3,28,3,25,Mar
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,13,24,13,11,Sep
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,11,21,11,10,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,1,30,1,29,Aug
+Synthetic_Employee,Marketing,SEO Analyst,Maternity Leave,01-01-2021,01-01-2021,7,27,7,20,Nov
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,1,29,11,18,Mar
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,7,27,7,20,Apr
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,10,21,10,11,Feb
+Synthetic_Employee,Marketing,SEO Analyst,Casual Leave,01-01-2021,01-01-2021,3,28,3,25,Jun
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,9,23,9,14,Dec
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,6,21,6,15,Mar
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,9,24,9,15,Jul
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,2,22,16,6,Jan
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,8,26,8,18,Sep
+Synthetic_Employee,IT,Software Engineer,Maternity Leave,01-01-2021,01-01-2021,5,20,5,15,Dec
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,5,26,5,21,Sep
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,6,20,6,14,Apr
+Synthetic_Employee,IT,System Administrator,Earned Leave,01-01-2021,01-01-2021,8,24,9,15,Feb
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,10,26,17,9,Dec
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,1,23,1,22,Oct
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,26,1,25,Oct
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,6,26,18,8,Jul
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,8,27,8,19,Feb
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,9,30,14,16,Feb
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,6,26,6,20,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,9,18,9,9,Jan
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,5,24,13,11,May
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,6,28,6,22,Nov
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,2,25,7,18,Jan
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,5,24,5,19,Aug
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,6,20,10,10,Dec
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,6,24,13,11,Jan
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,4,28,7,21,Apr
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,7,19,7,12,Mar
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,4,22,13,9,Jan
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,8,24,8,16,Dec
+Synthetic_Employee,HR,HR Manager,Paternity Leave,01-01-2021,01-01-2021,9,23,9,14,Sep
+Synthetic_Employee,HR,HR Manager,Sick Leave,01-01-2021,01-01-2021,2,28,14,14,Feb
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,6,30,12,18,Nov
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,2,20,18,2,Jul
+Synthetic_Employee,Operations,Operations Manager,Maternity Leave,01-01-2021,01-01-2021,4,30,16,14,Jun
+Synthetic_Employee,Marketing,SEO Analyst,Sick Leave,01-01-2021,01-01-2021,5,26,20,6,May
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,6,25,6,19,Aug
+Synthetic_Employee,Marketing,Marketing Specialist,Maternity Leave,01-01-2021,01-01-2021,9,29,9,20,Nov
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,2,26,19,7,Jul
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,4,25,13,12,Jun
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,1,25,3,22,Oct
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,2,23,19,4,Aug
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,3,30,14,16,Jan
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,6,24,18,6,Jul
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,3,27,3,24,Mar
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,7,26,7,19,Aug
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,4,23,15,8,Jun
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,2,25,15,10,Sep
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,4,22,4,18,Jun
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,3,24,6,18,Jan
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,7,22,7,15,Mar
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,6,28,6,22,Jan
+Synthetic_Employee,IT,Software Engineer,Sick Leave,01-01-2021,01-01-2021,5,30,5,25,Sep
+Synthetic_Employee,IT,System Administrator,Paternity Leave,01-01-2021,01-01-2021,9,21,14,7,Dec
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,2,21,4,17,May
+Synthetic_Employee,Operations,Operations Manager,Casual Leave,01-01-2021,01-01-2021,11,30,11,19,Jun
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,3,24,14,10,Jun
+Synthetic_Employee,Operations,Operations Manager,Paternity Leave,01-01-2021,01-01-2021,9,27,9,18,Apr
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,9,26,9,17,Dec
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,7,21,7,14,Dec
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,8,23,8,15,Dec
+Synthetic_Employee,Finance,Accountant,Sick Leave,01-01-2021,01-01-2021,12,21,12,9,Oct
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,1,27,13,14,Oct
+Synthetic_Employee,Marketing,SEO Analyst,Maternity Leave,01-01-2021,01-01-2021,2,26,20,6,Feb
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,12,30,12,18,Aug
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,10,19,10,9,Aug
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,8,30,8,22,Nov
+Synthetic_Employee,IT,Software Engineer,Earned Leave,01-01-2021,01-01-2021,4,28,9,19,Feb
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,10,30,11,19,Aug
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,8,28,11,17,Dec
+Synthetic_Employee,Finance,Financial Analyst,Maternity Leave,01-01-2021,01-01-2021,10,28,17,11,Jun
+Synthetic_Employee,Finance,Accountant,Maternity Leave,01-01-2021,01-01-2021,8,23,8,15,Apr
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,5,21,5,16,Jun
+Synthetic_Employee,Marketing,Marketing Specialist,Casual Leave,01-01-2021,01-01-2021,5,23,9,14,Jan
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,5,23,15,8,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Sick Leave,01-01-2021,01-01-2021,12,26,12,14,Jun
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,3,24,14,10,Sep
+Synthetic_Employee,Finance,Accountant,Casual Leave,01-01-2021,01-01-2021,1,22,1,21,Oct
+Synthetic_Employee,HR,Recruiter,Paternity Leave,01-01-2021,01-01-2021,2,23,16,7,Sep
+Synthetic_Employee,Marketing,Marketing Specialist,Paternity Leave,01-01-2021,01-01-2021,8,30,14,16,Mar
+Synthetic_Employee,Finance,Financial Analyst,Paternity Leave,01-01-2021,01-01-2021,5,29,12,17,Jun
+Synthetic_Employee,IT,System Administrator,Casual Leave,01-01-2021,01-01-2021,8,21,8,13,Jun
+Synthetic_Employee,IT,Software Engineer,Paternity Leave,01-01-2021,01-01-2021,6,24,9,15,Jul
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,5,20,5,15,Jun
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,10,29,13,16,Aug
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,1,21,19,2,Jul
+Synthetic_Employee,Finance,Financial Analyst,Casual Leave,01-01-2021,01-01-2021,9,29,13,16,Feb
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,11,21,11,10,Jun
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,5,28,16,12,Feb
+Synthetic_Employee,HR,Recruiter,Maternity Leave,01-01-2021,01-01-2021,2,28,17,11,Aug
+Synthetic_Employee,HR,HR Manager,Casual Leave,01-01-2021,01-01-2021,4,20,8,12,Aug
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,10,27,10,17,Dec
+Synthetic_Employee,Finance,Financial Analyst,Earned Leave,01-01-2021,01-01-2021,4,20,7,13,Mar
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,5,27,13,14,May
+Synthetic_Employee,Marketing,Marketing Specialist,Earned Leave,01-01-2021,01-01-2021,7,22,7,15,Nov
+Synthetic_Employee,Finance,Accountant,Earned Leave,01-01-2021,01-01-2021,4,28,20,8,Nov
+Synthetic_Employee,HR,HR Manager,Maternity Leave,01-01-2021,01-01-2021,2,30,5,25,May
+Synthetic_Employee,Operations,Operations Manager,Sick Leave,01-01-2021,01-01-2021,9,30,9,21,Apr
+Synthetic_Employee,HR,Recruiter,Casual Leave,01-01-2021,01-01-2021,8,28,16,12,Jul
+Synthetic_Employee,HR,HR Manager,Earned Leave,01-01-2021,01-01-2021,5,26,9,17,Sep
+Synthetic_Employee,Operations,Operations Manager,Earned Leave,01-01-2021,01-01-2021,5,30,20,10,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,5,21,5,16,Sep
+Synthetic_Employee,Operations,Logistics Coordinator,Sick Leave,01-01-2021,01-01-2021,8,22,8,14,Jun
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,8,30,14,16,Feb
+Synthetic_Employee,HR,Recruiter,Sick Leave,01-01-2021,01-01-2021,8,26,8,18,Mar
+Synthetic_Employee,Operations,Logistics Coordinator,Casual Leave,01-01-2021,01-01-2021,5,29,8,21,May
+Synthetic_Employee,Finance,Financial Analyst,Sick Leave,01-01-2021,01-01-2021,10,30,15,15,Aug
+Synthetic_Employee,HR,Recruiter,Earned Leave,01-01-2021,01-01-2021,5,20,13,7,Nov
+Synthetic_Employee,IT,System Administrator,Maternity Leave,01-01-2021,01-01-2021,7,24,15,9,Jul

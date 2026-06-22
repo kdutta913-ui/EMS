@@ -1,0 +1,337 @@
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-2: #f1f5f9;
+  --border: #e2e8f0;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #64748b;
+  --accent: #3b82f6;
+  --accent-light: #eff6ff;
+  --success: #10b981;
+  --success-light: #ecfdf5;
+  --warning: #f59e0b;
+  --warning-light: #fffbeb;
+  --danger: #ef4444;
+  --danger-light: #fef2f2;
+  --radius: 14px;
+  --shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -1px rgba(0,0,0,0.03);
+  --shadow-md: 0 10px 15px -3px rgba(0,0,0,0.08), 0 4px 6px -2px rgba(0,0,0,0.04);
+}
+
+.tg-page { padding: 28px; flex: 1; }
+
+/* ── Header ── */
+.tg-page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.tg-page-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.4px;
+}
+
+.tg-page-sub { font-size: 13px; color: var(--text-muted); margin-top: 3px; }
+
+.tg-header-actions { display: flex; gap: 10px; }
+
+.tg-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.13s;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-secondary);
+}
+
+.tg-btn:hover { background: var(--surface-2); }
+
+.tg-btn.primary {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.tg-btn.primary:hover { background: #1d4ed8; }
+
+/* ── Stats ── */
+.tg-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.tg-stat {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  box-shadow: var(--shadow);
+}
+
+.tg-stat-label { font-size: 11px; font-weight: 500; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+.tg-stat-value { font-family: 'Inter', sans-serif; font-size: 26px; font-weight: 700; color: var(--text-primary); letter-spacing: -0.8px; }
+.tg-stat-meta  { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+
+/* ── Kanban Board ── */
+.tg-board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.tg-column {
+  background: var(--surface-2);
+  border-radius: var(--radius);
+  padding: 14px;
+  min-height: 400px;
+}
+
+.tg-column-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+  padding: 0 4px;
+}
+
+.tg-column-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.1px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tg-col-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.tg-col-dot.pending    { background: var(--warning); }
+.tg-col-dot.inprogress { background: var(--accent);  }
+.tg-col-dot.done       { background: var(--success); }
+
+.tg-col-count {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--text-muted);
+}
+
+/* ── Task Card ── */
+.tg-task-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px;
+  margin-bottom: 10px;
+  box-shadow: var(--shadow);
+  transition: box-shadow 0.15s;
+  cursor: pointer;
+}
+
+.tg-task-card:hover { box-shadow: var(--shadow-md); }
+
+.tg-task-card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.tg-task-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+  line-height: 1.4;
+  flex: 1;
+}
+
+/* ── Priority tags ── */
+.tg-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.tg-tag.high   { background: var(--danger-light);  color: var(--danger);  }
+.tg-tag.medium { background: var(--warning-light); color: var(--warning); }
+.tg-tag.low    { background: var(--success-light); color: var(--success); }
+
+/* ── Task meta row ── */
+.tg-task-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.tg-task-assignee {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.tg-assignee-chip {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-size: 8px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tg-task-due { font-size: 11px; color: var(--text-muted); }
+.tg-task-due.overdue { color: var(--danger); font-weight: 500; }
+
+/* ── Goal section ── */
+.tg-goals-section { margin-top: 28px; }
+
+.tg-section-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.2px;
+  margin-bottom: 14px;
+}
+
+.tg-goals-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+
+.tg-goal-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  box-shadow: var(--shadow);
+}
+
+.tg-goal-title { font-size: 13px; font-weight: 500; color: var(--text-primary); margin-bottom: 6px; }
+.tg-goal-due   { font-size: 11px; color: var(--text-muted); margin-bottom: 14px; }
+
+.tg-goal-bar {
+  height: 6px;
+  background: var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.tg-goal-fill { height: 100%; border-radius: 3px; background: var(--accent); }
+
+.tg-goal-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 11px;
+}
+
+.tg-goal-pct   { font-weight: 600; color: var(--text-primary); }
+.tg-goal-owner { color: var(--text-muted); }
+
+/* ── Modal ── */
+.tg-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.tg-modal {
+  background: var(--surface);
+  border-radius: 14px;
+  width: 100%;
+  max-width: 460px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.15);
+  overflow: hidden;
+}
+
+.tg-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.tg-modal-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.tg-modal-close {
+  width: 30px; height: 30px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  transition: all 0.13s;
+}
+
+.tg-modal-close:hover { background: var(--surface-2); color: var(--text-primary); }
+
+.tg-modal-body { padding: 20px 24px; }
+
+.tg-modal-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 13px;
+  gap: 12px;
+}
+
+.tg-modal-row:last-child { border-bottom: none; }
+.tg-modal-label { color: var(--text-muted); flex-shrink: 0; }
+.tg-modal-value { font-weight: 500; color: var(--text-primary); text-align: right; }

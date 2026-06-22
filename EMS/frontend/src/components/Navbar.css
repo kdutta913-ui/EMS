@@ -1,0 +1,122 @@
+/* ── Navbar ── */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2.5rem;
+    background: transparent;
+    z-index: 1000;
+    box-sizing: border-box;
+}
+
+/* Brand / Logo */
+.navbar-brand {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 0.5px;
+    cursor: default;
+    user-select: none;
+}
+
+/* Nav links */
+.navbar-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links li a {
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    font-weight: 500;
+    position: relative;
+    padding: 0.25rem 0;
+    transition: color 0.3s ease;
+}
+
+/* Subtle underline animation on hover */
+.navbar-links li a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: grey;
+    border-radius: 1px;
+    transition: width 0.3s ease;
+}
+
+.navbar-links li a:hover {
+    color: #495057;
+}
+
+.navbar-links li a:hover::after {
+    width: 100%;
+}
+
+/* ── Highlighted auth links ── */
+.nav-login {
+    padding: 0.4rem 1.2rem !important;
+    border: 1.5px solid #0077b6;
+    border-radius: 8px;
+    color: #0077b6 !important;
+    transition: background 0.3s ease, color 0.3s ease !important;
+}
+
+.nav-login:hover {
+    background: #0077b6;
+    color: #ffffff !important;
+}
+
+.nav-login::after {
+    display: none !important;
+}
+
+.nav-register {
+    padding: 0.4rem 1.2rem !important;
+    background: #0077b6;
+    border: 1.5px solid #0077b6;
+    border-radius: 8px;
+    color: #ffffff !important;
+    transition: background 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.nav-register:hover {
+    background: #023e8a;
+    border-color: #023e8a;
+    box-shadow: 0 4px 14px rgba(2, 62, 138, 0.3);
+}
+
+.nav-register::after {
+    display: none !important;
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+    .navbar {
+        padding: 0.75rem 1.25rem;
+    }
+
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+
+    .navbar-links {
+        gap: 1rem;
+    }
+
+    .navbar-links li a {
+        font-size: 0.9rem;
+    }
+}

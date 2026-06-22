@@ -1,0 +1,214 @@
+/*
+  ChatLayout CSS
+  
+  Each child (Sidebar, Topbar, MessageArea) is position:fixed
+  and handles its own coordinates independently.
+  
+  This wrapper does NOTHING to the layout.
+  It only exists to hold React state.
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.cl-root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  background: #ffffff;
+}
+
+/* ── Chat Modals ── */
+.chat-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.52);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-modal {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 28px 28px 24px;
+  width: 480px;
+  max-width: 92vw;
+  max-height: 82vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 8px 48px rgba(0, 0, 0, 0.22);
+}
+
+.chat-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.chat-modal-title {
+  font-size: 18px;
+  font-weight: 800;
+  color: #1d1c1d;
+  margin: 0;
+}
+
+.chat-modal-close {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  color: #868686;
+  padding: 4px 8px;
+  border-radius: 6px;
+  line-height: 1;
+  transition: background 0.15s;
+}
+.chat-modal-close:hover { background: #f0f0f0; }
+
+.chat-modal-body {
+  overflow-y: auto;
+  flex: 1;
+}
+
+.chat-modal-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1d1c1d;
+  margin-bottom: 6px;
+  display: block;
+}
+
+.chat-modal-input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1.5px solid #dde1e5;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  margin-bottom: 14px;
+  box-sizing: border-box;
+  font-family: inherit;
+  color: #1d1c1d;
+  transition: border-color 0.15s;
+}
+.chat-modal-input:focus { border-color: #2563eb; }
+
+.chat-modal-submit {
+  width: 100%;
+  padding: 11px;
+  background: #2563eb;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 8px;
+  font-family: inherit;
+  transition: background 0.15s;
+}
+.chat-modal-submit:hover:not(:disabled) { background: #1d4ed8; }
+.chat-modal-submit:disabled { opacity: 0.45; cursor: not-allowed; }
+
+.chat-modal-submit--danger { background: #dc2626; }
+.chat-modal-submit--danger:hover:not(:disabled) { background: #b91c1c; }
+
+.chat-modal-cancel {
+  flex: 1;
+  padding: 11px;
+  background: #f1f5f9;
+  color: #475569;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 8px;
+  font-family: inherit;
+  transition: background 0.15s;
+}
+.chat-modal-cancel:hover { background: #e2e8f0; }
+
+.chat-modal-row {
+  display: flex;
+  gap: 10px;
+}
+.chat-modal-row .chat-modal-submit { flex: 1; }
+
+.chat-modal-warn-text {
+  font-size: 14px;
+  color: #374151;
+  line-height: 1.6;
+  margin-bottom: 4px;
+}
+
+.chat-modal-member-list {
+  max-height: 300px;
+  overflow-y: auto;
+  margin-bottom: 8px;
+  border: 1.5px solid #dde1e5;
+  border-radius: 8px;
+}
+
+.chat-modal-member-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.chat-modal-member-item:hover { background: #f8f9fa; }
+.chat-modal-member-item.selected { background: #eff6ff; }
+
+.chat-modal-member-avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.chat-modal-member-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1d1c1d;
+  line-height: 1.3;
+}
+
+.chat-modal-member-role {
+  font-size: 12px;
+  color: #868686;
+  line-height: 1.3;
+}
+
+.chat-modal-check {
+  margin-left: auto;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #dde1e5;
+  border-radius: 4px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+}
+.chat-modal-check.checked {
+  background: #2563eb;
+  border-color: #2563eb;
+  color: #ffffff;
+}

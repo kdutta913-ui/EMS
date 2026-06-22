@@ -1,0 +1,205 @@
+/* ── Register Page ── */
+.register-page {
+  display: flex;
+  min-height: 100vh;
+  background: whitesmoke;
+  padding-top: 4.5rem;
+}
+
+/* ── Left half – illustration ── */
+.register-left {
+  flex: 1.4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: whitesmoke;
+  padding: 3rem;
+}
+
+.register-left img {
+  max-width: 85%;
+  max-height: 80vh;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 24px rgba(0, 0, 0, 0.08));
+}
+
+/* ── Right half – form ── */
+.register-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 4rem;
+}
+
+.register-wrapper {
+  width: 100%;
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 2.5rem 2rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.06);
+}
+
+/* ── Title ── */
+.register-title {
+  margin: 0 0 0.25rem;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #03045e;
+  text-align: center;
+}
+
+.register-subtitle {
+  margin: 0 0 2rem;
+  font-size: 1rem;
+  color: #6c757d;
+  text-align: center;
+}
+
+/* ── Form ── */
+.register-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+}
+
+.register-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.register-field label {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #03045e;
+}
+
+.register-field input {
+  padding: 0.75rem 1rem;
+  border: 1.5px solid #dee2e6;
+  border-radius: 10px;
+  font-size: 1rem;
+  color: #212529;
+  background: #f8f9fa;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+}
+
+.register-field input::placeholder {
+  color: #adb5bd;
+}
+
+.register-field input:focus,
+.register-field select:focus {
+  border-color: #0077b6;
+  background: #ffffff;
+  box-shadow: 0 0 0 3px rgba(0, 119, 182, 0.12);
+}
+
+.register-field select {
+  padding: 0.75rem 1rem;
+  border: 1.5px solid #dee2e6;
+  border-radius: 10px;
+  font-size: 1rem;
+  color: #212529;
+  background: #f8f9fa;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236c757d' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.register-field select option[value=""] {
+  color: #adb5bd;
+}
+
+/* ── Password toggle ── */
+.password-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.password-wrapper input {
+  width: 100%;
+  padding-right: 2.8rem;
+}
+
+.password-toggle {
+  position: absolute !important;
+  right: 0.4rem;
+  color: #6c757d !important;
+  padding: 4px !important;
+}
+
+.password-toggle:hover {
+  color: #0077b6 !important;
+  background: transparent !important;
+}
+
+/* ── Button ── */
+.register-btn {
+  padding: 0.8rem;
+  border: none;
+  border-radius: 10px;
+  background: #0077b6;
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+  transition: background 0.3s ease, transform 0.15s ease, box-shadow 0.3s ease;
+}
+
+.register-btn:hover {
+  background: #023e8a;
+  box-shadow: 0 4px 16px rgba(2, 62, 138, 0.3);
+}
+
+.register-btn:active {
+  transform: scale(0.98);
+}
+
+/* ── Footer text ── */
+.register-footer {
+  text-align: center;
+  font-size: 1rem;
+  color: #6c757d;
+  margin: 1.5rem 0 0;
+}
+
+.register-footer a {
+  color: #0077b6;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.25s ease;
+}
+
+.register-footer a:hover {
+  color: #023e8a;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .register-page {
+    flex-direction: column;
+  }
+
+  .register-left {
+    min-height: 250px;
+    padding: 2rem;
+  }
+
+  .register-left img {
+    max-width: 60%;
+  }
+
+  .register-right {
+    padding: 2rem 1.5rem;
+  }
+}
