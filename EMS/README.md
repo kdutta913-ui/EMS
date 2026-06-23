@@ -85,10 +85,13 @@ The frontend runs on http://localhost:3000
 4. AI - Microservice setup
 cd AI_Models
 python -m venv venv
+
 # Windows
 venv\Scripts\activate
+
 # macOS/Linux
 source venv/bin/activate
+
 
 pip install -r requirements.txt
 The requirements.txt includes: pandas, numpy, scikit-learn, xgboost, joblib, flask, flask-cors, pymongo.
